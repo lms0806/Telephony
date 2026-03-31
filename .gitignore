@@ -1,0 +1,6 @@
+.idea
+
+receiver/target
+receiver/*.lock
+sender/target
+sender/*.lock
